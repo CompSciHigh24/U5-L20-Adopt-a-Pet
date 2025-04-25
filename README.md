@@ -1,4 +1,4 @@
-# 🐾 Adopt-a-Pet Full Stack Setup Guide
+# 🐾 Adopt-a-Pet Full Stack Setup 
 
 You’ve been given code snippets to build a **full-stack project**. Your job is to place each code snippet in the correct **file** and make sure the file is saved in the **correct folder**.
 
